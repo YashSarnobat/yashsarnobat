@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 DM me @YashSarnobat on twitter or email me directly. 
 
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsarnobat&show_icons=true&theme=tokyonight)
+
 <!--
 **YashSarnobat/yashsarnobat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
